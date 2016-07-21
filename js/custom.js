@@ -1,9 +1,11 @@
 $(document).ready(function(){
 
 	$("#btn1").click(function(){
-		$("h1").attr({
-			"href": "https://www.instagram.com/skkeptical___/",
-			// "title": "Instagram"
-		})
+		$(this)window.location.href: "https://www.instagram.com/skkeptical___/";
+	})
+
+	$("#button").click(function(){
+		$("#button").css('background-color', '');
+		$(this).css('background-color', 'purple');
 	})
 });
