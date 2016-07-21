@@ -9,6 +9,7 @@ h1 {
     padding-bottom: 20px;
     border: 8px double white;
     /*background-color: F08080;*/
+    border: 6px double #FFFFFF;
     width: 50%;
  }
 body {
